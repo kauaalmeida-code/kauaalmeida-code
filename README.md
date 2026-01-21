@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauã, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Computação no Centro Universitário - ENIAC.
+Me chamo Kauã, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia da Computação no Centro Universitário - ENIAC.
 
 <p align="left">
     <a href="https://github.com/Kauaalmeida-code?tab=repositories&sort=stargazers">
