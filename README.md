@@ -10,7 +10,7 @@ Sou estudante de **Engenharia da Computação** com forte interesse em **Desenvo
 
 ### 🚀 O que estou estudando e desenvolvendo
 
-* ☕ **Ecossistema Java:** Atualmente focado em um treinamento completo e intensivo (Udemy), aprofundando meus conhecimentos em **Java, Orientação a Objetos (OO), UML, JDBC e JavaFX**.
+* ☕ **Ecossistema Java:** Atualmente focado em um treinamento completo e intensivo (Udemy), aprofundando meus conhecimentos em **Java, Orientação a Objetos (POO), UML, JDBC e JavaFX**.
 * ⚙️ **Frameworks Modernos:** Estudando e aplicando o uso de **Spring Boot, JPA e Hibernate** para construção de aplicações robustas.
 * 🗄️ **Bancos de Dados:** Trabalhando com modelagem e persistência de dados utilizando tanto bancos relacionais (**MySQL**) quanto NoSQL (**MongoDB**).
 * 📊 **Data Science & IA:** Mantenho interesse no universo de dados, já tendo desenvolvido projetos de Inteligência Artificial e análise com **Python** no **Google Colab**.
