@@ -6,7 +6,6 @@ Sou estudante de **Engenharia da Computação** com forte interesse em **Desenvo
 
 * 🏛️ Atualmente cursando o 5º semestre de Engenharia da Computação no **Centro Universitário Eniac**.
 * 🎯 Meu foco principal no momento é dominar o desenvolvimento Back-end, arquitetura de software e modelagem de banco de dados.
-* 📚 Conciliando a faculdade com a preparação para o concurso do **Banco do Brasil**.
 
 ### 🚀 O que estou estudando e desenvolvendo
 
